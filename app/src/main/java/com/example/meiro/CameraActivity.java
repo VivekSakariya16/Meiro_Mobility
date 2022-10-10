@@ -17,6 +17,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
+@SuppressWarnings("deprecation")
 public class CameraActivity extends AppCompatActivity {
 
     private static final int PERMISSION_CODE = 1000 ;

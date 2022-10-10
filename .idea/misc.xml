@@ -3,17 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/_bg__frame_1_ek2_shape.xml" value="0.196" />
         <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/_bg__iphone_13___13_pro___1_ek2_shape.xml" value="0.196" />
         <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/_bg__iphone_13___13_pro___2_ek2_shape.xml" value="0.196" />
         <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/_rectangle_1_shape.xml" value="0.104" />
         <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/_rectangle_2_shape.xml" value="0.104" />
+        <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/border.xml" value="0.196" />
         <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/circle.xml" value="0.196" />
+        <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/corner_radius.xml" value="0.196" />
+        <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/corner_rgb_scan.xml" value="0.196" />
         <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/document.xml" value="0.196" />
+        <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.196" />
+        <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/ic_baseline_offline_bolt_24.xml" value="0.196" />
+        <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/ic_baseline_zoom_out_map_24.xml" value="0.196" />
+        <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/ic_flash_off.xml" value="0.196" />
         <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/ic_launcher_background.xml" value="0.104" />
+        <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/ic_uni.xml" value="0.196" />
+        <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/ic_union.xml" value="0.196" />
         <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/rectangle_1_ek1_shape.xml" value="0.104" />
         <entry key="..\:/AppS/Meiro/app/src/main/res/drawable/square.xml" value="0.196" />
         <entry key="..\:/AppS/Meiro/app/src/main/res/layout/activity_camera.xml" value="0.23229166666666667" />
-        <entry key="..\:/AppS/Meiro/app/src/main/res/layout/activity_main.xml" value="0.536" />
+        <entry key="..\:/AppS/Meiro/app/src/main/res/layout/activity_camera_new.xml" value="0.23229166666666667" />
+        <entry key="..\:/AppS/Meiro/app/src/main/res/layout/activity_camera_x.xml" value="0.176" />
+        <entry key="..\:/AppS/Meiro/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/AppS/Meiro/app/src/main/res/layout/activity_main2.xml" value="0.23229166666666667" />
       </map>
     </option>

@@ -15,7 +15,7 @@
         android:textStyle="bold"/>
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/close"
         android:src="@drawable/idcard"
         android:layout_marginTop="10dp"
         android:layout_width="match_parent"
